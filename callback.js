@@ -70,7 +70,7 @@ const arr = [1,2,3,4,5];
 //     }
 //     console.log (ans);
 // }
-
+    
 // multuply(arr);
 // devide(arr);
 
@@ -82,7 +82,7 @@ function calculate(arr=[] , Callback){
         {
            const element = Callback(arr[i]);
            ans.push(element);
-        }
+        } n
         console.log(ans);
 }
 
